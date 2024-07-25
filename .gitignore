@@ -1,0 +1,24 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+# ENV
+.env
+venv/
+# Database
+db.sqlite3
+
+#static
+/static/
+
+#mac
+._*
+.DS_Store
+.fseventsd
+.Spotlight-V100
+
+#vscode
+.vscode/
+.history/
+*.code-workspace
